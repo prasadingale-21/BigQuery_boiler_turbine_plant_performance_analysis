@@ -734,7 +734,8 @@ The completed dashboard is organized into four pages:
 
 
 ### 04 — Operational Insights
-<img width="1508" height="1125" alt="image" src="https://github.com/user-attachments/assets/2ddb7b89-ca5f-4153-9b6d-ccc817c53465" />
+<img width="1506" height="1125" alt="image" src="https://github.com/user-attachments/assets/d402705c-582e-48f2-a81b-e8499578eb61" />
+
 
 
 
