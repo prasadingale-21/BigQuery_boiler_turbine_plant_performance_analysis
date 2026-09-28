@@ -742,24 +742,6 @@ For scatter charts, the dashboard uses Average aggregation, about 1,000 bubbles 
 ## Suggested portfolio bullet
 > Built an end-to-end industrial plant performance analytics project using Google BigQuery, SQL and Data Studio, analyzing 100K+ boiler-turbine sensor records to evaluate boiler efficiency, steam generation, turbine/generator performance, condenser conditions and operational anomalies.
 
-## Architecture
-```text
-Kaggle Dataset
-      ↓
-Google Cloud
-      ↓
-BigQuery raw_data
-      ↓
-SQL profiling & analysis
-      ↓
-Analytical results/views
-      ↓
-Data Studio dashboard
-      ↓
-Business insights
-```
-See `Documentation/Project_Architecture.md`.
-
 
 ## Future enhancements
 - Python EDA and statistical testing
