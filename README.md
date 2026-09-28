@@ -737,11 +737,6 @@ The completed dashboard is organized into four pages:
 <img width="1508" height="1125" alt="image" src="https://github.com/user-attachments/assets/2ddb7b89-ca5f-4153-9b6d-ccc817c53465" />
 
 
-For scatter charts, the dashboard uses Average aggregation, about 1,000 bubbles and no descending sort so the displayed point distribution remains representative.
-
-## Suggested portfolio bullet
-> Built an end-to-end industrial plant performance analytics project using Google BigQuery, SQL and Data Studio, analyzing 100K+ boiler-turbine sensor records to evaluate boiler efficiency, steam generation, turbine/generator performance, condenser conditions and operational anomalies.
-
 
 ## Future enhancements
 - Python EDA and statistical testing
